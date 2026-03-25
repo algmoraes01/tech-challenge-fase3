@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+data/flights.csv
+data/*.zip
+outputs/
+*.parquet
+.DS_Store
+.idea/
+.vscode/
