@@ -9,9 +9,7 @@ Pós-graduação FIAP — Machine Learning Engineering
 
 O vídeo do Tech Challenge com a explicação do trabalho, os resultados e conclusões pode ser acessado no seguinte link:
 
-**Link do vídeo:**
-
-`[Assistir à apresentação](https://youtu.be/owZyia1Ef3g)`
+**Link do vídeo:** [Assistir à apresentação](https://youtu.be/owZyia1Ef3g)
 
 ---
 
